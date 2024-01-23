@@ -12,3 +12,9 @@ Led a comprehensive Power BI sales analysis project that seamlessly integrated M
 - **Dynamic Dashboard:** Developed a powerful Power BI dashboard for real-time decision-making.
 - **Actionable Insights:** Provided valuable and actionable sales insights for the computer hardware market.
 
+## Pages
+<p float="left">
+  <img src="ScreenShots/IPL-10.jpg" width="400" />
+  <img src="ScreenShots/IPL-11.jpg" width="400"/>
+  <img src="ScreenShots/IPL-11.jpg" width="400"/>
+</p>
