@@ -14,7 +14,7 @@ Led a comprehensive Power BI sales analysis project that seamlessly integrated M
 
 ## Pages
 <p float="left">
-  <img src="ScreenShots/IPL-10.jpg" width="400" />
-  <img src="ScreenShots/IPL-11.jpg" width="400"/>
-  <img src="ScreenShots/IPL-11.jpg" width="400"/>
+  <img src="ScreenShots/pb3.png" width="400" />
+  <img src="ScreenShots/pb1.png" width="400"/>
+  <img src="ScreenShots/pb2.png" width="400"/>
 </p>
